@@ -1,8 +1,8 @@
-# cli-get-steam-id
+# cli-steamid
 Install:
 ```
-git clone https://github.com/waspyro/cli-get-steam-id
-cd cli-get-steam-id
+git clone https://github.com/waspyro/cli-steamid
+cd cli-steamid
 npm i
 ```
 Use:
