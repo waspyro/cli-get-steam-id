@@ -3,7 +3,7 @@ Install:
 ```
 git clone https://github.com/waspyro/cli-steamid
 cd cli-steamid
-npm i
+npm i -g
 ```
 Use:
 ```
